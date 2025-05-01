@@ -1,3 +1,3 @@
 ## 📊 Aperçu du Dashboard Power BI
 
-![Dashboard Overview](captures/dashboard_overview.png)
+![Dashboard Overview](dashboards/captures/dashboard_overview.png)
